@@ -29,7 +29,7 @@ const InnerValueKeep = () => {
   return (
     <>
       <button ref={myButtonRef} onClick={handleClick}>
-        초기 상태
+        초기 상태입니다.
       </button>
     </>
   );
